@@ -1,1 +1,3 @@
 # sample_jenkins2container
+
+jenkinsからコンテナ起動してみようず
